@@ -1,6 +1,7 @@
 # ♟️ Chess AI
 
-An intelligent Chess game built using **Python and Artificial Intelligence**. The project allows users to play chess against an AI opponent that analyzes board positions and makes strategic moves.
+An intelligent Chess game built using **Python and Artificial Intelligence**. The project allows users to play chess against an AI opponent that analyzes board positions and makes strategic
+moves.
 
 This project demonstrates the implementation of **game algorithms, decision-making systems, and AI techniques** in a classic board game environment.
 
